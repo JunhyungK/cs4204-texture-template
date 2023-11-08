@@ -1,8 +1,8 @@
 # Programming Assignment 8
 
-Class: 
+Class: CS 4204 (Computer Graphics), Fall 2023
 
-Professor:
+Professor: Brendan David-John
 
 ## Overview
 
