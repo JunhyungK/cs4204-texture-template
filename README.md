@@ -72,7 +72,7 @@ resulting rendering with the expected output below.
 
 ## Rubric
 There are 10 points (11 with extra credit) for this assignment:
-- *10 pts*: Texutre mapping assignment8_* scripts are rendered as expected.
+- *10 pts*: Texture mapping assignment8_* scripts are rendered as expected.
   - *4 pts*: `assignment8_sphere`
   - *3 pts*: `assignment8_perspective_correction`
   - *3 pts*: `assignment8_no_perspective_correction`
